@@ -1,0 +1,22 @@
+[0.109s] Invoking command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp -- -j4 -l4
+[0.201s] [100%] Built target number_publisher
+[0.220s] Invoked command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp' returned '0': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp -- -j4 -l4
+[0.384s] Invoking command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp
+[0.401s] -- Install configuration: ""
+[0.401s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/lib/lifecycle_cpp/number_publisher
+[0.401s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/ament_index/resource_index/package_run_dependencies/lifecycle_cpp
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/ament_index/resource_index/parent_prefix_path/lifecycle_cpp
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/environment/ament_prefix_path.sh
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/environment/ament_prefix_path.dsv
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/environment/path.sh
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/environment/path.dsv
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.bash
+[0.402s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.sh
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.zsh
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.dsv
+[0.403s] -- Installing: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/package.dsv
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/ament_index/resource_index/packages/lifecycle_cpp
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/cmake/lifecycle_cppConfig.cmake
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/cmake/lifecycle_cppConfig-version.cmake
+[0.403s] -- Up-to-date: /home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp/share/lifecycle_cpp/package.xml
+[0.408s] Invoked command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp' returned '0': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp
