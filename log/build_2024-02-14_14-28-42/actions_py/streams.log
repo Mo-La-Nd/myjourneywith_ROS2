@@ -1,0 +1,51 @@
+[0.975s] Invoking command in '/home/ml_nd/ROS2Level3_ws/src/actions_py': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/build/actions_py/prefix_override:/home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages:/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/actions_py build --build-base /home/ml_nd/ROS2Level3_ws/build/actions_py/build install --record /home/ml_nd/ROS2Level3_ws/build/actions_py/install.log --single-version-externally-managed
+[1.234s] running egg_info
+[1.235s] creating ../../build/actions_py/actions_py.egg-info
+[1.235s] writing ../../build/actions_py/actions_py.egg-info/PKG-INFO
+[1.236s] writing dependency_links to ../../build/actions_py/actions_py.egg-info/dependency_links.txt
+[1.236s] writing entry points to ../../build/actions_py/actions_py.egg-info/entry_points.txt
+[1.237s] writing requirements to ../../build/actions_py/actions_py.egg-info/requires.txt
+[1.237s] writing top-level names to ../../build/actions_py/actions_py.egg-info/top_level.txt
+[1.237s] writing manifest file '../../build/actions_py/actions_py.egg-info/SOURCES.txt'
+[1.239s] reading manifest file '../../build/actions_py/actions_py.egg-info/SOURCES.txt'
+[1.241s] writing manifest file '../../build/actions_py/actions_py.egg-info/SOURCES.txt'
+[1.241s] running build
+[1.241s] running build_py
+[1.241s] creating /home/ml_nd/ROS2Level3_ws/build/actions_py/build
+[1.241s] creating /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib
+[1.241s] creating /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.241s] copying actions_py/count_until_server.py -> /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.242s] copying actions_py/move_robot_client.py -> /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.242s] copying actions_py/move_robot_server.py -> /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.242s] copying actions_py/__init__.py -> /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.242s] copying actions_py/count_until_client.py -> /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py
+[1.244s] running install
+[1.244s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.244s]   warnings.warn(
+[1.244s] running install_lib
+[1.245s] creating /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.246s] copying /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py/count_until_server.py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.246s] copying /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py/move_robot_client.py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.246s] copying /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py/move_robot_server.py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.246s] copying /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py/__init__.py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.246s] copying /home/ml_nd/ROS2Level3_ws/build/actions_py/build/lib/actions_py/count_until_client.py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py
+[1.247s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py/count_until_server.py to count_until_server.cpython-310.pyc
+[1.248s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py/move_robot_client.py to move_robot_client.cpython-310.pyc
+[1.248s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py/move_robot_server.py to move_robot_server.cpython-310.pyc
+[1.249s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py/__init__.py to __init__.cpython-310.pyc
+[1.250s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py/count_until_client.py to count_until_client.cpython-310.pyc
+[1.250s] running install_data
+[1.251s] creating /home/ml_nd/ROS2Level3_ws/install/actions_py/share/ament_index
+[1.251s] creating /home/ml_nd/ROS2Level3_ws/install/actions_py/share/ament_index/resource_index
+[1.251s] creating /home/ml_nd/ROS2Level3_ws/install/actions_py/share/ament_index/resource_index/packages
+[1.251s] copying resource/actions_py -> /home/ml_nd/ROS2Level3_ws/install/actions_py/share/ament_index/resource_index/packages
+[1.251s] copying package.xml -> /home/ml_nd/ROS2Level3_ws/install/actions_py/share/actions_py
+[1.251s] running install_egg_info
+[1.254s] Copying ../../build/actions_py/actions_py.egg-info to /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages/actions_py-0.0.0-py3.10.egg-info
+[1.254s] running install_scripts
+[1.274s] Installing count_until_client script to /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/actions_py
+[1.275s] Installing count_until_server script to /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/actions_py
+[1.275s] Installing move_robot_client script to /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/actions_py
+[1.275s] Installing move_robot_server script to /home/ml_nd/ROS2Level3_ws/install/actions_py/lib/actions_py
+[1.275s] writing list of installed files to '/home/ml_nd/ROS2Level3_ws/build/actions_py/install.log'
+[1.301s] Invoked command in '/home/ml_nd/ROS2Level3_ws/src/actions_py' returned '0': AMENT_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ml_nd/ROS2Level3_ws/build/actions_py/prefix_override:/home/ml_nd/ROS2Level3_ws/install/actions_py/lib/python3.10/site-packages:/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/actions_py build --build-base /home/ml_nd/ROS2Level3_ws/build/actions_py/build install --record /home/ml_nd/ROS2Level3_ws/build/actions_py/install.log --single-version-externally-managed

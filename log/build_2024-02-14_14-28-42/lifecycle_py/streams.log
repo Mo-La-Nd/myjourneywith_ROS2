@@ -1,0 +1,39 @@
+[1.179s] Invoking command in '/home/ml_nd/ROS2Level3_ws/src/lifecycle_py': PYTHONPATH=/home/ml_nd/ROS2Level3_ws/build/lifecycle_py/prefix_override:/home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lifecycle_py build --build-base /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build install --record /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/install.log --single-version-externally-managed
+[1.472s] running egg_info
+[1.472s] creating ../../build/lifecycle_py/lifecycle_py.egg-info
+[1.472s] writing ../../build/lifecycle_py/lifecycle_py.egg-info/PKG-INFO
+[1.473s] writing dependency_links to ../../build/lifecycle_py/lifecycle_py.egg-info/dependency_links.txt
+[1.473s] writing entry points to ../../build/lifecycle_py/lifecycle_py.egg-info/entry_points.txt
+[1.473s] writing requirements to ../../build/lifecycle_py/lifecycle_py.egg-info/requires.txt
+[1.473s] writing top-level names to ../../build/lifecycle_py/lifecycle_py.egg-info/top_level.txt
+[1.473s] writing manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.476s] reading manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.477s] writing manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.477s] running build
+[1.477s] running build_py
+[1.478s] creating /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build
+[1.478s] creating /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib
+[1.478s] creating /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.478s] copying lifecycle_py/__init__.py -> /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.479s] copying lifecycle_py/number_publisher.py -> /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.480s] running install
+[1.480s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.480s]   warnings.warn(
+[1.480s] running install_lib
+[1.482s] creating /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.482s] copying /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib/lifecycle_py/__init__.py -> /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.482s] copying /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build/lib/lifecycle_py/number_publisher.py -> /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.483s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/__init__.py to __init__.cpython-310.pyc
+[1.483s] byte-compiling /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/number_publisher.py to number_publisher.cpython-310.pyc
+[1.484s] running install_data
+[1.485s] creating /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/share/ament_index
+[1.485s] creating /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/share/ament_index/resource_index
+[1.485s] creating /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.485s] copying resource/lifecycle_py -> /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.485s] copying package.xml -> /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/share/lifecycle_py
+[1.485s] running install_egg_info
+[1.488s] Copying ../../build/lifecycle_py/lifecycle_py.egg-info to /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py-0.0.0-py3.10.egg-info
+[1.489s] running install_scripts
+[1.522s] Installing number_publisher script to /home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/lifecycle_py
+[1.522s] writing list of installed files to '/home/ml_nd/ROS2Level3_ws/build/lifecycle_py/install.log'
+[1.561s] Invoked command in '/home/ml_nd/ROS2Level3_ws/src/lifecycle_py' returned '0': PYTHONPATH=/home/ml_nd/ROS2Level3_ws/build/lifecycle_py/prefix_override:/home/ml_nd/ROS2Level3_ws/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lifecycle_py build --build-base /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/build install --record /home/ml_nd/ROS2Level3_ws/build/lifecycle_py/install.log --single-version-externally-managed

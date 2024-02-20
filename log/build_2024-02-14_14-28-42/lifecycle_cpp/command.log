@@ -1,0 +1,6 @@
+Invoking command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ml_nd/ROS2Level3_ws/src/lifecycle_cpp -DCMAKE_INSTALL_PREFIX=/home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp
+Invoked command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ml_nd/ROS2Level3_ws/src/lifecycle_cpp -DCMAKE_INSTALL_PREFIX=/home/ml_nd/ROS2Level3_ws/install/lifecycle_cpp
+Invoking command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp -- -j4 -l4
+Invoked command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp -- -j4 -l4
+Invoking command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp
+Invoked command in '/home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/ROS2Level3_ws/build/lifecycle_cpp

@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ml_nd/ROS2Level3_ws/install/my_robot_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ml_nd/ROS2Level3_ws/src/actions_cpp/include/**",
+        "/home/ml_nd/ROS2Level3_ws/src/lifecycle_cpp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

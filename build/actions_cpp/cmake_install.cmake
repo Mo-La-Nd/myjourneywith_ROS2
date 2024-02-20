@@ -1,4 +1,4 @@
-# Install script for directory: /home/ml_nd/ROS2Level3_ws/actions_cpp
+# Install script for directory: /home/ml_nd/ROS2Level3_ws/src/actions_cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -198,7 +198,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/actions_cpp" TYPE FILE FILES "/home/ml_nd/ROS2Level3_ws/actions_cpp/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/actions_cpp" TYPE FILE FILES "/home/ml_nd/ROS2Level3_ws/src/actions_cpp/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
